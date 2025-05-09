@@ -1,3 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Assesstment Mobpro 2</string>
+    <string name="app_name">Anime Collection</string>
+    <string name="add_anime">Add Anime</string>
+    <string name="edit_anime">Edit Anime</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="more">More</string>
+    <string name="delete">Delete</string>
+    <string name="title">Title</string>
+    <string name="desc">Description</string>
+    <string name="eps">Episode</string>
+    <string name="watch">Watch!</string>
+    <string name="watched">Already Watched</string>
+    <string name="genre">Genre</string>
+    <string name="studio">Studio</string>
+    <string name="not_found">Anime Not Found</string>
+    <string name="rating">Rating (0-10)</string>
+    <string name="season">Season</string>
+    <string name="delete_confirmation">Delete Anime</string>
+    <string name="delete_confirmation_message">Are you sure you want to delete this anime?</string>
+    <string name="confirm">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="invalid_fields">All fields must be filled</string>
+    <string name="invalid_rating">Rating must be between 0 and 10</string>
+    <string name="no_anime_found">No anime found</string>
+    <string name="grid">Grid View</string>
+    <string name="list">List View</string>
+    <string name="error">Error</string>
+    <string name="year">1900-2025</string>
 </resources>
